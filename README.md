@@ -21,7 +21,7 @@ Below, I’d like to share some of these projects — each one a step forward in
 
 ### Fate Dice
 
-[![Fate Dice](https://ytcards.demolab.com/?id=2C0_mlFG4JQ&width=500&border_radius=5&duration=138&title="Fate+Dice"&lang=en "Fate Dice")](https://www.youtube.com/watch?v=2C0_mlFG4JQ)
+[![Fate Dice](https://ytcards.demolab.com/?id=2C0_mlFG4JQ&width=500&border_radius=5&background_color=011117&duration=138&title="Fate+Dice+Presentation"&lang=en "Fate Dice")](https://www.youtube.com/watch?v=2C0_mlFG4JQ)
 
 Fate Dice is a personal experiment where I set out to merge tactical combat with the unpredictability of dice rolls — drawing inspiration from games like Slice & Dice. My goal was to create battles that felt both strategic and chaotic, where each decision was influenced by luck, yet still rewarded planning.
 
@@ -32,7 +32,7 @@ Outside of combat, I aimed to design a broader gameplay loop reminiscent of Hero
 
 ### Tales of Destiny
 
-[![Tales of Destiny](https://ytcards.demolab.com/?id=Dpc77pCiPzg&width=500&border_radius=5&duration=115&title="Tales+of+Destiny"&lang=en "Tales of Destiny")](https://www.youtube.com/watch?v=Dpc77pCiPzg)
+[![Tales of Destiny](https://ytcards.demolab.com/?id=Dpc77pCiPzg&width=500&background_color=011117&border_radius=5&duration=115&title="Tales+of+Destiny+Presentation"&lang=en "Tales of Destiny")](https://www.youtube.com/watch?v=Dpc77pCiPzg)
 
 Tales of Destiny is a card-based roguelike inspired by Hand of Fate. In this project, I explored narrative-driven progression through a dynamic board of hidden cards. The player moves step by step across a randomized grid, revealing events as they go.
 
@@ -47,7 +47,7 @@ This project allowed me to experiment with procedural content generation, event 
 
 ### Pirates Crew
 
-[![Pirates Crew](https://ytcards.demolab.com/?id=XBmE-lXDQSY&width=500&border_radius=5&duration=75&title="Pirates+Crew"&lang=en "Pirates Crew")](https://www.youtube.com/watch?v=XBmE-lXDQSY)
+[![Pirates Crew](https://ytcards.demolab.com/?id=XBmE-lXDQSY&width=500&border_radius=5&background_color=011117&duration=75&title="Pirates+Crew+Presentation"&lang=en "Pirates Crew")](https://www.youtube.com/watch?v=XBmE-lXDQSY)
 
 Pirates Crew is a 2D platformer adventure where you take on the role of a daring pirate exploring the mysteries of a lost island in search of long-forgotten treasure.
 
