@@ -21,11 +21,18 @@ Below, I’d like to share some of these projects — each one a step forward in
 
 ### Fate Dice
 
+[![Fate Dice](https://ytcards.demolab.com/?id=2C0_mlFG4JQ&width=500&border_radius=5&duration=138&title="Fate+Dice"&lang=en "Fate Dice")](https://www.youtube.com/watch?v=2C0_mlFG4JQ)
+
 Fate Dice is a personal experiment where I set out to merge tactical combat with the unpredictability of dice rolls — drawing inspiration from games like Slice & Dice. My goal was to create battles that felt both strategic and chaotic, where each decision was influenced by luck, yet still rewarded planning.
 
 Outside of combat, I aimed to design a broader gameplay loop reminiscent of Heroes of Might and Magic: exploring a world map, accepting quests, and managing resources. The result is a hybrid experience that blends turn-based tactics, RPG elements, and procedural randomness — all wrapped into a compact prototype built in my spare time.
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/DON-BOLSHOF/FateDice)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube)](https://www.youtube.com/watch?v=2C0_mlFG4JQ)
+
 ### Tales of Destiny
+
+[![Tales of Destiny](https://ytcards.demolab.com/?id=Dpc77pCiPzg&width=500&border_radius=5&duration=115&title="Tales+of+Destiny"&lang=en "Tales of Destiny")](https://www.youtube.com/watch?v=Dpc77pCiPzg)
 
 Tales of Destiny is a card-based roguelike inspired by Hand of Fate. In this project, I explored narrative-driven progression through a dynamic board of hidden cards. The player moves step by step across a randomized grid, revealing events as they go.
 
@@ -35,10 +42,18 @@ Based on the outcome of the event, the player may enter a tactical autobattle, w
 
 This project allowed me to experiment with procedural content generation, event scripting, and interactive storytelling — all within a compact gameplay loop.
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/DON-BOLSHOF/TalesOfDestiny)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube)](https://www.youtube.com/watch?v=Dpc77pCiPzg)
+
 ### Pirates Crew
+
+[![Pirates Crew](https://ytcards.demolab.com/?id=XBmE-lXDQSY&width=500&border_radius=5&duration=75&title="Pirates+Crew"&lang=en "Pirates Crew")](https://www.youtube.com/watch?v=XBmE-lXDQSY)
 
 Pirates Crew is a 2D platformer adventure where you take on the role of a daring pirate exploring the mysteries of a lost island in search of long-forgotten treasure.
 
 The island is filled with ancient puzzles, hidden passages, and deadly traps that challenge the player's logic and reflexes. But solving puzzles isn’t the only danger — the surrounding waters are teeming with hostile sea creatures ready to tear apart any foreigner who dares to disturb their domain.
 
 This project was my playground for experimenting with level design, environmental storytelling, and physics-based puzzles, all wrapped in a lighthearted pirate theme. It combines exploration, problem-solving, and action to deliver a compact yet rich platforming experience.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/DON-BOLSHOF/Pirates-adventures)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube)](https://www.youtube.com/watch?v=XBmE-lXDQSY)
